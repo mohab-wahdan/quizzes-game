@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1570809685 source:d:\fci 2\assignment 1_prog2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1570812177 source:d:\fci 2\assignment_1_prog2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
